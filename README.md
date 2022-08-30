@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meshramvibhor
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning Bsc computer science
 - 💞️ I’m looking to collaborate on some real life projects.. for changing world
 - 📫 How to reach me- meshramvibhor@gmail.com
 
