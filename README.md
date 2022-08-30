@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meshramvibhor
 - 👀 I’m interested in coding...
-- 💞️ I’m looking to collaborate on some real life projects.. for changing world
+- 💞️ I’m looking to collaborate on some real life projects.. 
 - 📫 How to reach me- meshramvibhor@gmail.com
 
 <!---
