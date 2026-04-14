@@ -16,8 +16,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Python and its frameworks.**
-- 💬 Ask me about **ReactJs, ExpressJs, IoT, NodeJs, MongoDb, React Native**
+- 🌱 I’m currently learning **Gen AI.**
+- 💬 Ask me about **Java, SpringBoot, Microservices, ReactJs, ExpressJs, IoT, NodeJs, MongoDb, React Native**
 - 📫 How to reach me **vibhor2748@gmail.com**
 - 📄 Know about my experiences https://drive.google.com/file/d/1thJm8O4PZ0Cm0371PHsU52dwHw87pqad/view?usp=drive_link
 - ⚡ Fun fact **Fitness enthusiastic**
